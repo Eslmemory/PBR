@@ -1,0 +1,45 @@
+[Header]
+ICOfile = "BasketballCourt_thumb.jpg"
+PREVIEWfile = "BasketballCourt_preview.jpg"
+Name = "Basketball Court"
+Author = "Blochi"
+Location = "Halle"
+Comment = "Old abandoned basketball arena, overgrown with grass, in the shade of a tree, surreal ruins"
+GEOlat = 51.4666213988888900
+GEOlong = 11.9630317688888880
+Link = "http://www.hdrlabs.com/sibl/archive.html"
+Date = "2009:08:04"
+Time = "10:20:00"
+Height = 1.754386
+
+[Background]
+BGfile = "BasketballCourt_8k.jpg"
+BGmap = 1
+BGu = 0.000000
+BGv = 0.000000
+BGheight = 4096
+
+[Enviroment]
+EVfile = "BasketballCourt_Env.hdr"
+EVmap = 1
+EVu = 0.000000
+EVv = 0.000000
+EVheight = 180
+EVmulti = 1.000000
+EVgamma = 1.600000
+
+[Reflection]
+REFfile = "BasketballCourt_3k.hdr"
+REFmap = 1
+REFu = 0.000000
+REFv = 0.000000
+REFheight = 1600
+REFmulti = 1.000000
+REFgamma = 1.600000
+
+[Sun]
+SUNcolor = 253,255,250
+SUNmulti = 0.800000
+SUNu = 0.148000
+SUNv = 0.260000
+
